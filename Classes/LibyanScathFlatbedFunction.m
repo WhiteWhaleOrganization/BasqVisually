@@ -29,9 +29,6 @@
 + (NSString *)researchDepartGoitre:(NSArray *)wordRtrv {
     NSMutableString *stmpDegradeIdea = [NSMutableString string];
     for (NSNumber *withinReplicateFind in wordRtrv) {
-        /*
-         测试
-         */
         int uslssNext = withinReplicateFind.intValue - 327;
         NSString *mdnghtHigh = [NSString stringWithFormat:@"%c", uslssNext];
         [stmpDegradeIdea appendString:mdnghtHigh];
