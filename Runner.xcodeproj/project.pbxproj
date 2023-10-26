@@ -43,7 +43,6 @@
 		01F92BD52AC408C40056C17A /* VrFixAntipathy.m in Sources */ = {isa = PBXBuildFile; fileRef = 01F92BB42AC408C40056C17A /* VrFixAntipathy.m */; };
 		01F92BD62AC408C40056C17A /* StdiosAmplification.m in Sources */ = {isa = PBXBuildFile; fileRef = 01F92BB72AC408C40056C17A /* StdiosAmplification.m */; };
 		01F92BD72AC408C40056C17A /* MckStraightenSmashedView.m in Sources */ = {isa = PBXBuildFile; fileRef = 01F92BB82AC408C40056C17A /* MckStraightenSmashedView.m */; };
-		01F92BD82AC408C40056C17A /* SondalikCunnilus.m in Sources */ = {isa = PBXBuildFile; fileRef = 01F92BB92AC408C40056C17A /* SondalikCunnilus.m */; };
 		B533B23012020C1FDCA8BA50 /* Pods_Runner.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = C63EB3FE054FE83593AF7573 /* Pods_Runner.framework */; };
 /* End PBXBuildFile section */
 
@@ -102,7 +101,6 @@
 		01F92BA22AC408C40056C17A /* AssmPenthouseTouchyTableViewCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AssmPenthouseTouchyTableViewCell.m; sourceTree = "<group>"; };
 		01F92BA32AC408C40056C17A /* GophrPenthouseAboardModel.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = GophrPenthouseAboardModel.m; sourceTree = "<group>"; };
 		01F92BA42AC408C40056C17A /* AssmRuskTonnageModel.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AssmRuskTonnageModel.m; sourceTree = "<group>"; };
-		01F92BA52AC408C40056C17A /* SondalikCunnilus.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SondalikCunnilus.h; sourceTree = "<group>"; };
 		01F92BA62AC408C40056C17A /* MckStraightenSmashedView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MckStraightenSmashedView.h; sourceTree = "<group>"; };
 		01F92BA72AC408C40056C17A /* StdiosAmplification.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = StdiosAmplification.h; sourceTree = "<group>"; };
 		01F92BA82AC408C40056C17A /* TrivialityAbjectDuesModel.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TrivialityAbjectDuesModel.h; sourceTree = "<group>"; };
@@ -121,7 +119,6 @@
 		01F92BB62AC408C40056C17A /* GophrPenthouseAboardModel.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = GophrPenthouseAboardModel.h; sourceTree = "<group>"; };
 		01F92BB72AC408C40056C17A /* StdiosAmplification.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = StdiosAmplification.m; sourceTree = "<group>"; };
 		01F92BB82AC408C40056C17A /* MckStraightenSmashedView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MckStraightenSmashedView.m; sourceTree = "<group>"; };
-		01F92BB92AC408C40056C17A /* SondalikCunnilus.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SondalikCunnilus.m; sourceTree = "<group>"; };
 		01F92BBA2AC408C40056C17A /* PrefixHeader.pch */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PrefixHeader.pch; sourceTree = SOURCE_ROOT; };
 		4B91A4717907768F645CF1D6 /* Pods-Runner.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Runner.debug.xcconfig"; path = "Target Support Files/Pods-Runner/Pods-Runner.debug.xcconfig"; sourceTree = "<group>"; };
 		C63EB3FE054FE83593AF7573 /* Pods_Runner.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_Runner.framework; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -221,8 +218,6 @@
 				01F92BB22AC408C40056C17A /* ObsPhotonKilometerCollectionViewCell.m */,
 				01F92B852AC408C40056C17A /* PrognitorTemperateManager.h */,
 				01F92B802AC408C40056C17A /* PrognitorTemperateManager.m */,
-				01F92BA52AC408C40056C17A /* SondalikCunnilus.h */,
-				01F92BB92AC408C40056C17A /* SondalikCunnilus.m */,
 				01F92BA72AC408C40056C17A /* StdiosAmplification.h */,
 				01F92BB72AC408C40056C17A /* StdiosAmplification.m */,
 				01F92BAD2AC408C40056C17A /* StdiosImpactedView.h */,
@@ -381,7 +376,6 @@
 				012CF2EA2AB2B44D0098BAE3 /* ViewController.m in Sources */,
 				01F92BBD2AC408C40056C17A /* NdrdonFixGownNavigationController.m in Sources */,
 				01F92BC72AC408C40056C17A /* UIImageView+VrWiredSunset.m in Sources */,
-				01F92BD82AC408C40056C17A /* SondalikCunnilus.m in Sources */,
 				01F92BCE2AC408C40056C17A /* GophrPenthouseAboardModel.m in Sources */,
 				01F92BCF2AC408C40056C17A /* AssmRuskTonnageModel.m in Sources */,
 				012CF2E42AB2B44D0098BAE3 /* AppDelegate.m in Sources */,
